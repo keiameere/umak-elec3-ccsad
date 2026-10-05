@@ -91,7 +91,7 @@ How is a network ACL different from a security group?
 
 'A network ACL works at the subnet level, is stateless, and has numbered Allow and Deny rules evaluated in order. A security group works at the instance (ENI) level, is stateful, and has Allow rules only.'
 
-![Screenshot 3]()
+![Screenshot 3](screenshot-3-network-acl.png)
 
 ### A9. The default security group
 
